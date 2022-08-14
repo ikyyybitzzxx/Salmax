@@ -51,24 +51,24 @@ global.sdc = '-'
 global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = 'gaada'
-global.povo = 'gaada'
-global.pgopay = 'gaada'
-global.ppulsa = '601172381193 digi'
+global.pdana = '62/085922480867'
+global.povo = '62/085922480867'
+global.pgopay = '62/085922480867'
+global.ppulsa = '62/085922480867 digi'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '601172381193'
-global.nomorown = '60134406236'
-global.namebot = 'ShamTuru'
-global.nameown = 'Sham'
+global.nomorbot = '6285922480867'
+global.nomorown = '6285922480867'
+global.namebot = 'Bot ki/ChruzzXd'
+global.nameown = 'This.kyy'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['601172381193'],
-  ['601172381193'],
+  ['6285922480867'],
+  ['6285922480867'],
   ['601172381193', 'By TuruBotz🛌 ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -115,21 +115,21 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = 'By TuruBotz' //Main Watermark
+global.wm = 'By Kyybot' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘By TuruBotz🛌˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺By Putbotz'
+global.wm3 = '⫹⫺By Kyy'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘By TuruBotz🛌˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.author = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘By TuruBotz🛌˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.titlebot = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘By Kibotz🛌˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.author = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘By Kibotz🛌˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
 
 /*============== LOGO ==============*/
 // INI JUGA GANTI SETERAH MU
-global.thumb = 'https://telegra.ph/file/c73f47b440241b66cb9d3.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/c73f47b440241b66cb9d3.jpg'
-global.thumbbc = 'https://telegra.ph/file/d389f4acafac741f6592c.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
+global.thumb = 'https://telegra.ph/file/7032a4d358eee5350dfa3.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/7032a4d358eee5350dfa3.jpg'
+global.thumbbc = 'https://telegra.ph/file/7032a4d358eee5350dfa3.jpg' //For broadcast
+global.giflogo = 'https://telegra.ph/file/7032a4d358eee5350dfa3.jpg'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
